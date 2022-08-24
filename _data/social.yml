@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://cwh.1010@qq.com
+  icon: fas fa-envelope
+# - title: Twitter
+#   url: https://twitter.com/vszhub
+#   icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/Menc0
+  icon: fab fa-github
