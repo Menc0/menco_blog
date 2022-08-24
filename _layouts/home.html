@@ -33,7 +33,7 @@ layout: default
 
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">上一页</a>
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path}}">上一页</a>
   {% else %}
     <span class="pagination-item newer">上一页</span>
   {% endif %}

@@ -215,3 +215,10 @@ The theme is available as open source under the terms of the [MIT License](https
 启动：进入跟目录 jekyll server
 
 前提是安装了ruby 和jekyll 参考https://www.jianshu.com/p/9f71e260925d
+
+遇上组建找不到时：`require': cannot load such file -- webrick (LoadError)
+使用命令bundle add webrick 安装对应组建即可
+
+可以使用jekyll-admin 进行管理
+前提先安装jekyll-admin
+安装后访问地址：http://127.0.0.1:4000/admin

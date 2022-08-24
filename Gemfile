@@ -39,3 +39,5 @@ gem "jekyll-gist", "~> 1.5"
 gem "jekyll-paginate", "~> 1.1"
 
 gem "jekyll-sitemap", "~> 1.4"
+
+gem "jekyll-admin", "~> 0.11.0"
