@@ -1,8 +1,6 @@
 ---
 layout: page
-title: About
+title: 个人简介
 ---
 
-**哈哈哈** 哈哈哈哈哈哈哈 [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+**哈哈哈** 哈哈哈哈哈哈哈
