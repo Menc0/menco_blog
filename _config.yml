@@ -4,6 +4,7 @@ description: 这是一个简单有趣的blog，想看什么和我说！
 url: https://menc0.github.io/menco_blog/
 avatar: /avatar.jpeg
 paginate: 5
+paginate_path: "/menco_blog/page/:num/"
 permalink: pretty
 cover_image: /bg.jpeg
 
