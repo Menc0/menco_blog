@@ -1,7 +1,7 @@
 # Setup
-title: 个人简介
-description: 这是一个个人简介
-url: https://vszhub.github.io
+title: Menco的博客
+description: 这是一个简单有趣的blog，想看什么和我说！
+url: https://menc0.github.io/menco_blog/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Menco
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Menco
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/
+    - https://menc0.github.io/menco_blog/
 google_site_verification: xxxxx
 lang: en
 
@@ -55,5 +55,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: menco
-  url: https://github.com/Menc0
+  url: https://menc0.github.io/menco_blog/
   email: cwh.1010@qq.com
