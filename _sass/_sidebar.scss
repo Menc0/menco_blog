@@ -43,7 +43,7 @@
 }
 
 .navigation-list {
-  margin-top: var(--spacer-2);
+  margin-top: var(--spacer-3);
   padding: 0;
   list-style: none;
 }
@@ -57,9 +57,10 @@
   background: transparent;
   color: inherit;
   letter-spacing: 0.05em;
-  font-size: 90%;
-  border-bottom: 2px solid;
+  font-size: 100%;
+  border-bottom: 1px solid;
   border-color: inherit;
+  font-weight: bold;
 
   &:hover,
   &:focus {
