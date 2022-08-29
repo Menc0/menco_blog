@@ -113,6 +113,7 @@ date: 2022-08-26 15:32
 > index.html 网站的入口
 
 jekyll语法参考：[文档](https://www.wenjiangs.com/doc/jekyll-variables)
+ [官网文档](http://jekyllcn.com/docs/posts/)
 
 **六、利用jekyll-admin插件进行博客管理**
 
