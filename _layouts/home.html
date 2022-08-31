@@ -33,7 +33,7 @@ layout: default
 
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path}}">上一页</a>
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">上一页</a>
   {% else %}
     <span class="pagination-item newer">上一页</span>
   {% endif %}
@@ -44,3 +44,6 @@ layout: default
   {% endif %}
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
 </div>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <span id="busuanzi_container_site_pv">访问量:<span id="busuanzi_value_site_pv"></span>次</span>
